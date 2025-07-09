@@ -1,1 +1,49 @@
 
+# Meeting Manager – Visual Demo
+
+This document showcases the user interface and core functionalities of the Meeting Manager application.
+
+---
+
+## 1. Landing Page-Admin
+![Landing Page](./LandingPage.png)
+
+---
+
+## 2. Landing Page-Participant
+![Landing Page](./LandingPageParticipant.png)
+
+---
+
+## 3. Create Meeting
+![Create Meeting](./CreateMeeting.png)
+
+---
+
+## 4. View Meeting Details 
+![View Meeting](./ViewMeeting.png)
+
+---
+
+## 5. Edit Meeting with Conflict Detection
+![Edit Meeting Conflicts](./EditMeetingConflicts.png)
+
+---
+
+## 6. In-App Notification
+![In-App Notification](./InAppNotification.png)
+
+---
+
+## 7. Calendar View
+![Calendar View](./CalendarView.png)
+
+---
+
+## 8. Calendar with Conflicts
+![Calendar Conflicts](./CalendarConflicts.png)
+
+---
+
+## 9. Calendar Day Click Details
+![On Click Calendar](./OnClickCalendar.png)
