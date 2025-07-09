@@ -92,5 +92,5 @@ This helps users quickly identify the state of each meeting at a glance.
 ## Visual Demo
 
 To see a walkthrough of the Meeting Manager interface and features:  
-👉 [Click here to view the Visual Demo](./visual-demo.md)
+👉 [Click here to view the Demo](./demo.md)
 
